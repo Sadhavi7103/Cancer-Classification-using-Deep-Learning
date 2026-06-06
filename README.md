@@ -1,10 +1,10 @@
-# Cancer-Classification-using-Deep-Learning
+# Cancer Classification using Deep Learning
 # Breast Cancer Classification using Deep Learning
 
 ## Overview
 This project uses an Artificial Neural Network (ANN) to classify breast tumors as benign or malignant using the Breast Cancer Wisconsin Dataset.
 
-## Technologies
+## Technologies used
 - Python
 - TensorFlow/Keras
 - Scikit-Learn
